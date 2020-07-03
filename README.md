@@ -1,5 +1,5 @@
 # p007
-Data and code for Human Brain Mapping paper, 2019
+Data and code for Coggan, D. D., Giannakopoulou, A., Ali, S., Goz, B., Watson, D. M., Hartley, T., … Andrews, T. J. (2019). A data‐driven approach to stimulus selection reveals an image‐based representation of objects in high‐level visual areas. Human Brain Mapping, (June), hbm.24732. https://doi.org/10.1002/hbm.24732
 
 Experiment 1
 
